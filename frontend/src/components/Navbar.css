@@ -1,0 +1,15 @@
+@media (max-width: 1024px) {
+    .menu{
+        display: block;
+        margin-right: 8px;
+    }
+    .logo{
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .links{
+        display: none;
+    }
+}

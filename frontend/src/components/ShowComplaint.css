@@ -1,0 +1,23 @@
+.pending-row{
+    background-color: rgb(184, 254, 249);
+}
+.processing-row{
+    background-color: rgb(255, 215, 140);
+}
+.solved-row{
+    background-color: rgb(208, 250, 208);
+}
+.rejected-row{
+    background-color: rgb(255, 213, 213);
+}
+
+
+.table-container {
+    overflow-x: auto;
+  }
+  
+  .table-responsive {
+    overflow-x: auto;
+    max-width: 100%;
+  }
+  
