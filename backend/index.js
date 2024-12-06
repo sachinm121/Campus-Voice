@@ -6,6 +6,7 @@ const userRoutes = require('./routes/User');
 const complaintRoutes = require('./routes/Complaint');
 const contactusRouter = require("./routes/ContactUs")
 
+// Configuration
 const database = require("./config/database");
 const cookieParser = require("cookie-parser");
 const bodyParser = require("body-parser")
